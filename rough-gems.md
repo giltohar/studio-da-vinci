@@ -1,12 +1,11 @@
-Rough Gems
-----------
+# Rough Gems #
 
-## screw-less lighbulb 
+## screw-less lighbulb ##
 
-## hygiene kit for men
+## hygiene kit for men ##
+ 
+## chrome extension with positivity ##
 
-## chrome extension with positivity
+## plant pot that doesn't leak water ##
 
-## plant pot that doesn't leak water
-
-## document management - on top of github
+## document management - on top of github ##
